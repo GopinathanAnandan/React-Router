@@ -14,7 +14,7 @@ const CardView = ({ item }) => {
     return (
         <Col xs={12} md={6} lg={4}>
             <Card className="h-100" onClick={handleCardClick} style={{ cursor: 'pointer' }}>
-                <Card.Img variant="top" src={item.img} alt={item.title} style={{ objectFit: 'cover', height: '200px' }} />
+                <Card.Img variant="top" src={item.img} alt={item.title} style={{ objectFit: 'cover', height: '150px' }} />
                 <Card.Body className="d-flex flex-column">
                     <Card.Title>{item.title}</Card.Title>
                 </Card.Body>

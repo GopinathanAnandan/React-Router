@@ -16,7 +16,7 @@ const Detail = () => {
     return (
         <Container className="my-5">
             <Card className="detailcard">
-                <Card.Img variant="top" src={item.img} alt={item.title} style={{ height: '300px', objectFit: 'cover' }} />
+                <Card.Img variant="top" src={item.img} alt={item.title} style={{ height: '250px', objectFit: 'cover' }} />
                 <Card.Body>
                     <Card.Title>{item.title}</Card.Title>
                     <Card.Text>
