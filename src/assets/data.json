@@ -2,23 +2,23 @@
     {
         "id": 1,
         "type": "FSD",
-        "title": "Best Full-Stack Development Project Ideas in 2024",
-        "img": "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
-        "description": "When you give your resume to any potential recruiter, the first thing that they check apart from your education is the number of projects that you have done during your career. The aim of the project is not just to showcase your understanding of the subject but rather to showcase your interest in that subject that extends beyond academics"
+        "title": "How much DSA for Full Stack Development Is Required?",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2024/02/feature_image-6-1.webp",
+        "description": "Data Structures and Algorithms i.e., DSA for full stack development? It is an unsaid rule to have DSA as a skill to become a full stack developer. Of course for backend development, DSA plays a major role in building a completely functional backend system. But how much? How much DSA is required for full stack development?"
     },
     {
         "id": 2,
         "type": "FSD",
-        "title": "Top 10 Full-Stack Developer Frameworks in 2024",
-        "img": "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
-        "description": "In this article, we will discuss the top 10 full-stack developer frameworks that are currently trending in 2024 and why they are widely used."
+        "title": "Best Books to Learn Full-Stack Development",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Best-Books-to-Learn-Full-Stack-Development-768x480.webp",
+        "description": "Are you interested in becoming a full-stack developer but not sure where to start? In this blog, we’ll introduce you to a list of books to learn full-stack development. Full stack development means you can build the whole shebang – from the stuff people see on a website (like buttons and images) to the hidden parts that make everything work (like databases and server programs). In simple terms, it’s about making websites do cool things"
     },
     {
         "id": 3,
         "type": "FSD",
-        "title": "6 Essential Prerequisites For Learning ReactJS",
-        "img": "https://www.guvi.in/blog/wp-content/uploads/2021/05/react-768x402.jpg",
-        "description": "In this article, we will go through some prerequisites and essentials that you should be familiar with before jumping into coding in ReactJS. These fundamentals will also assist you in learning other JavaScript frameworks and libraries in the future."
+        "title": "7 Best Full-Stack Development Online Courses [2024]",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2023/08/Feature-image-Best-Full-Stack-Development-Online-Courses-768x480.webp",
+        "description": "Today’s world is rapidly evolving into a technological landscape. Owing to these dynamics, the demand and scope for full-stack developers are constantly on the rise. Are you an aspiring web developer striving to enhance your web development skills and become a full-stack web developer?"
     },
     {
         "id": 4,
@@ -37,23 +37,23 @@
     {
         "id": 6,
         "type": "Cyber Security",
-        "title": "How Is Cyber Security Important To Our Lives?",
-        "img": "https://www.guvi.in/blog/wp-content/uploads/2020/11/cyber-security-1170x480.png",
-        "description": "Cybersecurity is an exact solution that is sought either by a billionaire with a massive business or an innovator with a small start-up or even an individual who risks personal data online."
+        "title": "What Is Hacking? Types of Hacking & More",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More-768x480.webp",
+        "description": "Have you ever wondered what hacking is all about? It’s a big deal in today’s tech-heavy world, and it can be both fascinating and scary. In this blog, we’re going to explore hacking in simple terms so that you can understand it better. We’ll look at the different kinds of hacking that exist. "
     },
     {
         "id": 7,
         "type": "Data Science",
-        "title": "How to become a Data Scientist after Mechanical Engineering?",
-        "img": "https://www.guvi.in/blog/wp-content/uploads/2023/01/paper-analysis-2-1536x1024.jpg",
-        "description": "Switching careers can sound quite intimidating especially when you’re a mechanical engineer by educational qualification, & willing to break into the Data Science industry as a Data Scientist. While dreaming of a data science career is a sign of forward thinking. Do you know how? According to ‘The Humans of Data Science’ report published by Michael Page India(a global recruitment firm), the demand for data science professionals is expected to increase globally by 11.5 million by 2026. Indeed, Data Science is a smart choice for making a promising career."
+        "title": "What is the Difference between Data Science and Data Engineering?",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Difference-between-Data-Science-and-Data-Engineering-768x480.webp",
+        "description": "India has been making some serious waves in the world of data. Just like the rest of the world, we’re seeing a massive jump in the demand for data science and data engineering roles. And this isn’t just a passing trend. Companies, big and small, are hungry for data. They want to gather it, crunch it, and use it to supercharge their businesses. And guess where a lot of this action’s happening? Tech hotspots like Bengaluru, Hyderabad, and Pune! But here’s the thing: within this exciting world of data, there are some roles that often get mixed up – like data scientists and data engineers."
     },
     {
         "id": 8,
         "type": "Data Science",
-        "title": "AI vs ML vs Data Science: What Should You Learn In 2024?",
-        "img": "https://www.guvi.in/blog/wp-content/uploads/2022/02/2.-AI-vs-ML-vs-Data-Science_-1536x804.png",
-        "description": "In 2014, a small instant messaging company with about 50 employees was acquired for $19 billion. It was more than the GDP of Afghanistan at the time. Simultaneously, the same year, Google acquired a London-based startup whose product beat the world’s best chess and Go players after a few days of self-learning. In 2024, the world’s most valuable carmakers manufacture vehicles that can drive autonomously."
+        "title": "Top 10 High Paying Non-Coding Jobs in Data Science in 2024",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Top-High-Paying-Non-Coding-Jobs-in-Data-Science-768x480.webp",
+        "description": "Are you someone who’s not interested in coding, but wants to get placed in tech through data science, and earn a handsome salary? Worry Not! Tech companies have various opportunities open for you even if you’ve no experience in coding. Data science has evolved to become one of the most sought-after fields in the tech industry."
     },
     {
         "id": 9,
