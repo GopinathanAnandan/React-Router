@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "type": "FSD",
+        "title": "Best Full-Stack Development Project Ideas in 2024",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+        "description": "When you give your resume to any potential recruiter, the first thing that they check apart from your education is the number of projects that you have done during your career. The aim of the project is not just to showcase your understanding of the subject but rather to showcase your interest in that subject that extends beyond academics"
+    },
+    {
+        "id": 2,
+        "type": "FSD",
+        "title": "Top 10 Full-Stack Developer Frameworks in 2024",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+        "description": "In this article, we will discuss the top 10 full-stack developer frameworks that are currently trending in 2024 and why they are widely used."
+    },
+    {
+        "id": 3,
+        "type": "FSD",
+        "title": "6 Essential Prerequisites For Learning ReactJS",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2021/05/react-768x402.jpg",
+        "description": "In this article, we will go through some prerequisites and essentials that you should be familiar with before jumping into coding in ReactJS. These fundamentals will also assist you in learning other JavaScript frameworks and libraries in the future."
+    },
+    {
+        "id": 4,
+        "type": "Cyber Security",
+        "title": "The Ultimate Cybersecurity Roadmap for Beginners",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2021/03/The-Ultimate-%E2%80%A8Cybersecurity-Roadmap-for-Beginners.webp",
+        "description": "Cybersecurity is the practice of protecting systems, networks, and data from malicious attacks and threats. This course will teach you the fundamentals of cybersecurity, including network security, data encryption, identity and access management, and risk management. By the end of the course, you will be able to identify potential threats, implement security measures, and maintain the security of digital assets and networks."
+    },
+    {
+        "id": 5,
+        "type": "Cyber Security",
+        "title": "Non-Coding Jobs in Cybersecurity: A Comprehensive Guide",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity-768x480.webp",
+        "description": "In the rapidly evolving field of cybersecurity, there is a common misconception that coding skills are a prerequisite for success. While it is true that certain cybersecurity roles require extensive coding knowledge, there are plenty of non-coding jobs within the industry that play a crucial role in protecting organizations from cyber threats. In this comprehensive guide, we will explore the various non-coding jobs in cybersecurity, the skills required for each role, and how to pursue a career in this exciting field."
+    },
+    {
+        "id": 6,
+        "type": "Cyber Security",
+        "title": "How Is Cyber Security Important To Our Lives?",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2020/11/cyber-security-1170x480.png",
+        "description": "Cybersecurity is an exact solution that is sought either by a billionaire with a massive business or an innovator with a small start-up or even an individual who risks personal data online."
+    },
+    {
+        "id": 7,
+        "type": "Data Science",
+        "title": "How to become a Data Scientist after Mechanical Engineering?",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2023/01/paper-analysis-2-1536x1024.jpg",
+        "description": "Switching careers can sound quite intimidating especially when you’re a mechanical engineer by educational qualification, & willing to break into the Data Science industry as a Data Scientist. While dreaming of a data science career is a sign of forward thinking. Do you know how? According to ‘The Humans of Data Science’ report published by Michael Page India(a global recruitment firm), the demand for data science professionals is expected to increase globally by 11.5 million by 2026. Indeed, Data Science is a smart choice for making a promising career."
+    },
+    {
+        "id": 8,
+        "type": "Data Science",
+        "title": "AI vs ML vs Data Science: What Should You Learn In 2024?",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2022/02/2.-AI-vs-ML-vs-Data-Science_-1536x804.png",
+        "description": "In 2014, a small instant messaging company with about 50 employees was acquired for $19 billion. It was more than the GDP of Afghanistan at the time. Simultaneously, the same year, Google acquired a London-based startup whose product beat the world’s best chess and Go players after a few days of self-learning. In 2024, the world’s most valuable carmakers manufacture vehicles that can drive autonomously."
+    },
+    {
+        "id": 9,
+        "type": "Data Science",
+        "title": "Top 100 Amazon Data Scientist Interview Questions!",
+        "img": "https://www.guvi.in/blog/wp-content/uploads/2022/08/3.-Amazon-Data-Scientist-Interview.png",
+        "description": "Aspiring to be a Data Scientist at Amazon? Refer- Amazon Data Scientist Interview Questions here. Amazon(US) tops the LinkedIn list of the top companies for 2nd time in a row! Moreover, in 2021, Amazon created more than 200,000 jobs in the US, where more than 1.1 million people are currently employed. To add to it, a 2021 Insider survey also suggested that majority of the Amazon Employees are happy with their jobs. If you, as the many, aspire to be one of those happy Amazon employees, then get set and start preparing for the upcoming Amazon interviews! "
+    }
+]
